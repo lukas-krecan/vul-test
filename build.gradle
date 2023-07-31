@@ -21,6 +21,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'com.github.java-json-tools:json-patch:1.13'
 	implementation 'org.springframework.kafka:spring-kafka:3.0.9'
+	implementation 'com.hotels:avro-compatibility:2.2.0'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
